@@ -1,0 +1,15 @@
+Sample code from the MSDN library about socket programming in C# (asynchronously).
+
+Asynchronous Server Socket Example
+http://msdn.microsoft.com/en-us/library/fx6588te.aspx
+
+Asynchronous Client Socket Example
+http://msdn.microsoft.com/en-us/library/bew39x2a.aspx
+
+Using an Asynchronous Server Socket
+http://msdn.microsoft.com/en-us/library/5w7b7x5f.aspx
+
+
+
+Reference for Network Programming in general in the .NET Framework 4.5:
+http://msdn.microsoft.com/en-us/library/4as0wz7t(v=vs.110).aspx
